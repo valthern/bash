@@ -13,4 +13,3 @@ de un texto que yo quiero
 sacar en pantalla
 por la terminal
 pruebita
-
