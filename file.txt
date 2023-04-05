@@ -1,0 +1,17 @@
+total 56
+4 drwxr-xr-x 3 omar omar 4096 Apr  4 22:59 .
+4 drwxr-xr-x 4 omar omar 4096 Mar  8 20:37 ..
+4 drwxr-xr-x 8 omar omar 4096 Apr  4 19:47 .git
+4 -rwxr-xr-x 1 omar omar  169 Apr  4 20:20 arguments.sh
+4 -rwxr-xr-x 1 omar omar  273 Mar 21 23:54 case.sh
+4 -rwxr-xr-x 1 omar omar  394 Mar 21 23:29 conditionals.sh
+0 -rw-r--r-- 1 omar omar    0 Apr  4 23:02 error.txt
+0 -rw-r--r-- 1 omar omar    0 Apr  4 23:02 file.txt
+4 -rwxr-xr-x 1 omar omar  219 Mar  8 20:37 helloworld.sh
+4 -rw-r--r-- 1 omar omar  202 Mar  8 20:37 hola.txt
+4 -rwxr-xr-x 1 omar omar  143 Mar 21 23:29 logical_operator.sh
+4 -rwxr-xr-x 1 omar omar  425 Apr  4 20:09 loops.sh
+4 -rwxr-xr-x 1 omar omar  219 Mar 21 22:52 output.sh
+4 -rwxr-xr-x 1 omar omar   85 Mar  8 20:52 read.sh
+4 -rwxr-xr-x 1 omar omar   44 Apr  4 23:02 stderr_stdout.sh
+4 -rwxr-xr-x 1 omar omar   74 Apr  4 21:15 stdin.sh
