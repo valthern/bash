@@ -17,3 +17,6 @@ echo ${name^^}
 
 # Convertir sólo las vocales a minúsculas
 echo ${name,,[AEIOU]}
+
+# Convertir sólo las vocales a mayúsculas
+echo ${name^^[aeiou]}
