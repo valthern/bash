@@ -1,4 +1,4 @@
 #! /bin/bash
 
-MESSAGE="Hola pinche mundo"
+MESSAGE="Hola mundo"
 echo "$MESSAGE" | wc -m
