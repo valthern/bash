@@ -10,13 +10,15 @@ read -r adjective
 # echo "$result"
 
 # Convertir a minúsculas un texto
-echo ${name,,}
+AMinusculas="${name,,}"
+echo "$AMinusculas"
 
 # Converitr a mayusculas un texto
-echo ${name^^}
+AMayusculas="${name^^}"
+echo "$AMayusculas"
 
-# Convertir sólo las vocales a minúsculas
-echo ${name,,[AEIOU]}
+# Convertir sólo las vocales a minúsculas (los caracteres dentro de los corchetes)
+echo "${AMayusculas,,[AEIOUÁÉÍÓÚ]}"
 
-# Convertir sólo las vocales a mayúsculas
-echo ${name^^[aeiou]}
+# Convertir sólo las vocales a mayúsculas (los caracteres dentro de los corchetes)
+echo "${AMinusculas^^[aeiouáéíóú]}"

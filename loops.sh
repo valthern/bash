@@ -21,7 +21,7 @@ number=1
 # done
 
 for i in {0..100..10}; do
-    if [ $i -eq 30 ] || [ $i -eq 70 ]; then
+    if [ "$i" -eq 30 ] || [ "$i" -eq 70 ]; then
         continue
     fi
         
