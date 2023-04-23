@@ -3,8 +3,8 @@
 echo "Enter a name:"
 read -r name
 
-echo "Write an adjetive:"
-read -r adjective
+# echo "Write an adjetive:"
+# read -r adjective
 
 # result="$name is $adjective"
 # echo "$result"
